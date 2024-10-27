@@ -1,3 +1,0 @@
-C:/Users/Luis/Desktop/CSC340-Assignment-3-main/cmake-build-debug/CMakeFiles/CSC340_Assignment_3_main.dir
-C:/Users/Luis/Desktop/CSC340-Assignment-3-main/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/Luis/Desktop/CSC340-Assignment-3-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
